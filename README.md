@@ -20,7 +20,8 @@ Si gustas, nos ponemos en contacto!
  Catalina.maldonadoe@gmail.com
 
 ------------
-  ![](https://i.postimg.cc/52Szhwz7/5.png)
+![image](https://github.com/CatalinanMe/CatalinanMe/assets/142262435/d5e2bb59-9383-48b8-8b4f-dc56b37277f8)
+
 > **Tecnologias aplicadas**
 - Java
 - Html
