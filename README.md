@@ -20,7 +20,7 @@ Si gustas, nos ponemos en contacto!
 
 ------------
   ![](https://i.postimg.cc/52Szhwz7/5.png)
-     >  **Tecnologias aplicadas**
+> **Tecnologias aplicadas**
 - Java
 - Html
 - JS / JSX
