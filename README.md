@@ -10,19 +10,14 @@ Estoy principalmente interesada en la tecnologia full stack {frontend, backend} 
 
 🌱 Actualmente estoy adquiriendo conocimientos de forma autodidacta, trabajando en proyectos para ampliar mis conocimientos practicos y tambien para añadirlos a mi portafolio.
 
-Si quieres nos ponemos en contacto!
-###Contacto directo :
- [LinkedIn](https://www.linkedin.com/in/catamaep/ "Heading link")
- [Whatsapp](https://w.app/vzfdIb "Heading link")
+Si gustas, nos ponemos en contacto!
+**Contacto directo :** [LinkedIn](https://www.linkedin.com/in/catamaep/ "Heading link") , [Whatsapp](https://w.app/vzfdIb "Heading link")
 
- Te dejo mi correo electronico:
+**Mi correo electronico:**
  Catalina.maldonadoe@gmail.com
 
-
-![](https://postimg.cc/8JgWmjVz][img]https://i.postimg.cc/8JgWmjVz/5.png)![](https://i.postimg.cc/JnGqmk6Z/5.png)
-
-
-###Tecnologias aplicadas
+![](https://i.postimg.cc/JnGqmk6Z/5.png)
+**Tecnologias aplicadas**
 - Java
 - Html
 - JS / JSX
