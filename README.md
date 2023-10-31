@@ -15,23 +15,17 @@ Si gustas, nos ponemos en contacto!
 
 **Contacto directo:** [LinkedIn](https://www.linkedin.com/in/catamaep/ "Heading link") , [Whatsapp](https://w.app/vzfdIb "Heading link")
 
-
 **Mi correo electronico:**
  Catalina.maldonadoe@gmail.com
 
 ------------
-![image](https://github.com/CatalinanMe/CatalinanMe/assets/142262435/d5e2bb59-9383-48b8-8b4f-dc56b37277f8)
+![image](https://github.com/CatalinanMe/CatalinanMe/assets/142262435/6d7f5ab2-c270-44df-a9b1-dbc3171e3bad)
 
 > **Tecnologias aplicadas**
-- Java
-- Html
-- JS / JSX
-- Css
-- React
-- Vite
-- Node.js
-- SpringBoot
-- Maven
-- MySQL
-- Git/Github
-- Postman
+- Java        - SpringBoot
+- Html        - Maven
+- JS / JSX    - MySQL
+- Css         - Git/Github
+- React       - Postman
+- Vite        - Node.js
+- SpringBoot  - FireBase
