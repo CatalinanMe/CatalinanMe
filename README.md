@@ -22,10 +22,16 @@ Si gustas, nos ponemos en contacto!
 ![image](https://github.com/CatalinanMe/CatalinanMe/assets/142262435/6d7f5ab2-c270-44df-a9b1-dbc3171e3bad)
 
 > **Tecnologias aplicadas**
-- Java        - SpringBoot
-- Html        - Maven
-- JS / JSX    - MySQL
-- Css         - Git/Github
-- React       - Postman
-- Vite        - Node.js
-- SpringBoot  - FireBase
+- Java        
+- Html       
+- JS / JSX    
+- Css         
+- React       
+- Vite       
+- SpringBoot  
+- Maven
+- MySQL
+- Git/Github
+- Postman
+- Node.js
+- FireBase
