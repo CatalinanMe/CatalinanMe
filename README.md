@@ -1,4 +1,4 @@
- ![](https://i.postimg.cc/tJ3JFkRh/Compostemos-15.png)
+ ![](https://i.postimg.cc/6q9GQFwk/7.png)
 
 ### Hola! un gusto, soy Catalina Maldonado 🌻
 **Actualmente Full Stack Dev.**
