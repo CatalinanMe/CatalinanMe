@@ -13,7 +13,7 @@ Estoy principalmente interesada en la tecnologia full stack {frontend, backend} 
 
 Si gustas, nos ponemos en contacto!
 
-**Contacto directo:** [LinkedIn](https://www.linkedin.com/in/catamaep/ "Heading link") , [Whatsapp](wa.me/56991201973) "Heading link")
+**Contacto directo:** [LinkedIn](https://www.linkedin.com/in/catamaep/ "Heading link") , [Whatsapp](wa.me/56991201973 "Heading link")
 
 **Mi correo electronico:**
  Catalina.maldonadoe@gmail.com
