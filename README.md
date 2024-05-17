@@ -1,7 +1,7 @@
  ![](https://i.postimg.cc/6q9GQFwk/7.png)
  
 ### Hola! un gusto, soy Catalina Maldonado 🌻
-Actualmente Desarrolladora Full Stack
+Actualmente estudiando Analista Programador Computacional + Bootcamp Python.
 
 ------------
 Me gusta mucho el area TI y toda su versatilidad ya que puedes ir de un lugar a otro creando, innovando y poniendote a prueba en muchos sentidos, por esto es que creo fielmente que el limite lo ponemos nosotros mismo, hay infinitas posibilidades ✨
