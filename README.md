@@ -11,10 +11,14 @@ Actualmente me encuentro realizando un curso de Automatización de Procesos grac
 
 
 🛠️ Tecnologías & Herramientas
+
 Lenguajes: Python, JavaScript, Java
+
 Web: HTML, CSS, Bootstrap
+
 Bases de datos: MySQL, SQL Server, MongoDB
-Frameworks: Flask
+
+Frameworks: Flask, Django
 
    ![](https://i.postimg.cc/RC2ZXNWW/6.png)
 
