@@ -27,7 +27,7 @@ Herramientas: Azure DevOps, Mantis, experiencia en metodología Scrum
 💡 Buscando nuevos desafíos profesionales donde aportar valor y seguir creciendo.
 
 📫 Conectemos!  
-💼 LinkedIn: linkedin.com/in/catamaep
+💼 LinkedIn: linkedin.com/in/catamaep  
 ✉️ Email: Catalina.maldonadoe@gmail.com
 
 ✨ Siempre abierta a colaborar, compartir ideas y asumir nuevos retos.
