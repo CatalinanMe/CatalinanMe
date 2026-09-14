@@ -10,7 +10,7 @@ Cuento con experiencia práctica en **QA & Testing**, diseño y ejecución de pr
 Me motiva colaborar en equipo, proponer soluciones eficientes y mantener un aprendizaje continuo en cada proyecto.
 
 -- 
-🛠️ Tecnologías & Herramientas
+🛠️ Tecnologías & Herramientas  
 Lenguajes: Python, JavaScript.
 
 QA & Testing: Playwright, BugBug, Postman, Pruebas Funcionales & E2E.
@@ -26,7 +26,7 @@ Herramientas: Azure DevOps, Mantis, experiencia en metodología Scrum
 📌 ¿En qué estoy enfocada actualmente?
 💡 Buscando nuevos desafíos profesionales donde aportar valor y seguir creciendo.
 
-📫 Conectemos!
+📫 Conectemos!  
 💼 LinkedIn: linkedin.com/in/catamaep
 ✉️ Email: Catalina.maldonadoe@gmail.com
 
